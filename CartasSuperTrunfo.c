@@ -31,5 +31,25 @@ int main(){
     printf("Digite quantos pontos turísticos a cidade tem: \n");
     scanf("%d", &pontosturisticos);
 
+    printf("CARTA 2\n");
+
+        printf ("Digite o seu estado(letra de A a H): \n");
+    scanf("%c", &estado);
+    
+    printf("Digite a sua cidade: \n");
+    scanf("%s", cidade);
+
+    printf("Digite a população da cidade: \n");
+    scanf("%d", &populacao);
+
+    printf("Digite a area da cidade: \n");
+    scanf("%f", &area);
+
+    printf("Digite o PIB da cidade: \n");
+    scanf("%f", &PIB);
+
+    printf("Digite quantos pontos turísticos a cidade tem: \n");
+    scanf("%d", &pontosturisticos);
+
     return 0;   
 } 
