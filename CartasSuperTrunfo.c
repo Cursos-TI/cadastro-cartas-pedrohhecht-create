@@ -2,4 +2,31 @@
 
 int main(){
     printf("Desafio SuperTrunfo!\n");
+
+    char estado;
+    char cidade[50];
+    int populacao;
+    float area;
+    float PIB;
+    int pontosturisticos;
+
+    printf ("Digite o seu estado(letra de A a H): \n");
+    scanf("%s", estado);
+    
+    printf("Digite a sua cidade: \n");
+    scanf("%s", cidade);
+
+    printf("Digite a população da cidade: \n");
+    scanf("%f", populacao);
+
+    printf("Digite a area da cidade: \n");
+    scanf("%f", area);
+
+    printf("Digite o PIB da cidade: \n");
+    scanf("%f", area);
+
+    printf("Digite quantos pontos turísticos a cidade tem: \n");
+    scanf("%d", pontosturisticos);
+
+
 } 
