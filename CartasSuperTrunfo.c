@@ -90,7 +90,7 @@ int main(){
     int populacao2 = 6748000
     float area2 = 1200.25
 
-    densidade2 = ((float)populacao1/area1);
+    densidade2 = ((float)populacao2/area2);
 
     printf("A densidade é "f%", densidade2);
     
