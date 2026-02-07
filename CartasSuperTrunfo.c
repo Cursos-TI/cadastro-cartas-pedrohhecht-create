@@ -50,5 +50,14 @@ int main() {
     printf("Densidade Carta 1: %.2f hab/km²\n", densidade1);
     printf("Densidade Carta 2: %.2f hab/km²\n", densidade2);
 
+    /* NÍVEL MESTRE */
+
+    printf("\nNÍVEL MESTRE\n");
+
+    /* CARTA 1 */
+    
+    float 
+     
+
     return 0;
 }
